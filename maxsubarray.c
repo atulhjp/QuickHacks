@@ -7,7 +7,7 @@
 #include <stdlib.h>
 
 int main() {
-        int t;
+    int t;
     scanf ("%d", &t);
     while (t--) {
         long n;
